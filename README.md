@@ -1,3 +1,3 @@
 # MaptyProject
 
-Website to track exercise location, duration, calorie burn etc. Part of the Jonas Schmedtmann Javascript masterclass. 
+Site pour enregistrer le position GPS de l'exercice, la durée, les calories brûlées, etc. Fait partie de la masterclass Javascript Jonas Schmedtmann.
